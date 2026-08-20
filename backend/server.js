@@ -70,6 +70,30 @@ let books = [
     category: "Web Development",
     isbn: "9780596517748",
     available: true
+  },
+  {
+    id: "4",
+    title: "Design Patterns",
+    author: "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    category: "Software Architecture",
+    isbn: "9780201633610",
+    available: true
+  },
+  {
+    id: "5",
+    title: "Introduction to Algorithms",
+    author: "Thomas H. Cormen & Charles E. Leiserson",
+    category: "Computer Science",
+    isbn: "9780262033848",
+    available: false
+  },
+  {
+    id: "6",
+    title: "Clean Architecture",
+    author: "Robert C. Martin",
+    category: "Software Engineering",
+    isbn: "9780134494166",
+    available: true
   }
 ];
 
